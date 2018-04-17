@@ -1,1 +1,1 @@
-<?php include_once("home.html"); ?>
+<?php include_once($_SERVER['DOCUMENT_ROOT'] . "/build/home.html"); ?>
